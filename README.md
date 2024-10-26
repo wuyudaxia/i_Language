@@ -1,5 +1,7 @@
 # 旷野语言 (i-Language)
 
+![A blooming language world](i_language.webp)
+
 ## Introduction
 
 旷野语言 (i-Language) is an innovative AI project focused on creating a system where objects and concepts in the world can be described using fundamental logical bases. These bases form a subspace, allowing objects to be represented as linear combinations of these bases. This symbolic AI model aims to offer more interpretable and transparent solutions compared to traditional machine learning and neural networks.
