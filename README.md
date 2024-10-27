@@ -1,12 +1,12 @@
-# 旷野语言 (i-Language)
+# 旷野语言 (ī-Language)
 
 ![A blooming language world](i_language.webp)
 
 ## Introduction
 
-旷野语言 (i-Language) is an innovative AI project focused on creating a system where objects and concepts in the world can be described using fundamental logical bases. These bases form a subspace, allowing objects to be represented as linear combinations of these bases. This symbolic AI model aims to offer more interpretable and transparent solutions compared to traditional machine learning and neural networks.
+旷野语言 (ī-Language) is an innovative AI project focused on creating a system where objects and concepts in the world can be described using fundamental logical bases. These bases form a subspace, allowing objects to be represented as linear combinations of these bases. This symbolic AI model aims to offer more interpretable and transparent solutions compared to traditional machine learning and neural networks.
 
-The current focus of our team is to evaluate the limitations of existing machine learning models and explore how integrating i-Language can potentially improve accuracy in large language models.
+The current focus of our team is to evaluate the limitations of existing machine learning models and explore how integrating ī-Language can potentially improve accuracy in large language models.
 
 ---
 
@@ -18,24 +18,24 @@ The goal of 旷野语言 is to create a highly interpretable AI system that repr
 
 ## Current Focus
 
-Our team is currently working on understanding the limitations of traditional machine learning and neural network models to identify where and how symbolic AI, based on i-Language, can improve these systems. We are closely working with other teams responsible for defining the logical bases of i-Language, and we are integrating their outputs into our machine learning models.
+Our team is currently working on understanding the limitations of traditional machine learning and neural network models to identify where and how symbolic AI, based on ī-Language, can improve these systems. We are closely working with other teams responsible for defining the logical bases of ī-Language, and we are integrating their outputs into our machine learning models.
 
 ---
 
 ## Short-Term Plan
 
-### Objective: Evaluate the effectiveness of i-Language within large language models
+### Objective: Evaluate the effectiveness of ī-Language within large language models
 
 - **Key Tasks**:
   1. Study and review traditional machine learning models and large language models (LLMs) to identify their inherent limitations, particularly in areas like interpretability and accuracy.
-  2. Develop and train a machine learning model using i-Language-based datasets.
+  2. Develop and train a machine learning model using ī-Language-based datasets.
   3. Test the trained model to evaluate its accuracy and performance in comparison to traditional LLMs.
-  4. Analyze whether the symbolic AI approach using i-Language enhances the model's performance.
+  4. Analyze whether the symbolic AI approach using ī-Language enhances the model's performance.
 
 - **Immediate Deliverables**:
-  - A trained model using i-Language datasets.
+  - A trained model using ī-Language datasets.
   - A set of accuracy tests and metrics to compare performance against traditional models.
-  - Documentation of results and findings on whether i-Language improves model accuracy.
+  - Documentation of results and findings on whether ī-Language improves model accuracy.
 
 ---
 
@@ -45,7 +45,7 @@ Our team is currently working on understanding the limitations of traditional ma
 
 - **Machine Learning and AI**:
   - Understanding of LLMs and traditional machine learning models, such as neural networks and decision trees.
-  - Familiarity with symbolic AI models, which will be central to integrating i-Language.
+  - Familiarity with symbolic AI models, which will be central to integrating ī-Language.
   
 - **Data Science**:
   - Experience in handling and training datasets.
@@ -63,7 +63,7 @@ In the first year, the project will concentrate on:
 | Task                                    | Timeframe                | Objective                                                      |
 | --------------------------------------- | ------------------------ | --------------------------------------------------------------- |
 | Study traditional ML and LLM models     | 6 month                  | Identify limitations in current models                          |
-| Develop i-Language model                | 3 months                 | Train a model using i-Language datasets                         |
-| Test and analyze model accuracy         | 3 month                  | Compare i-Language performance against traditional models        |
+| Develop ī-Language model                | 3 months                 | Train a model using ī-Language datasets                         |
+| Test and analyze model accuracy         | 3 month                  | Compare ī-Language performance against traditional models        |
 | Report findings                         | End of 3rd month         | Present results and evaluate next steps                         |
 
