@@ -1,0 +1,5 @@
+First meeting, we studied how to operate the unix like system
+
+with command "cd", "ls", "vi", "/", "cp", "mv"
+
+and brief intro to git
